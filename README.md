@@ -1,6 +1,8 @@
 # Clicky Game
 
-![alt text](https://github.com/sarahbmcl/ClickyGame/GLOW.png "GLOW")
+![alt text](https://github.com/sarahbmcl/ClickyGame/blob/master/GLOW.png "GLOW")
+![alt text](https://github.com/cowankc/whatsCookin/blob/master/public/images/logo.png "Logo")
+
 
 <!-- * [ClickyGame] (https://uncbc-clickygame.herokuapp.com/) -->
 
