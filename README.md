@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/sarahbmcl/ClickyGame/blob/master/GLOW.png "GLOW")
 
-* [ClickyGame] (https://immense-caverns-27456.herokuapp.com/)
+Heroku Deployed App: https://immense-caverns-27456.herokuapp.com/
 
 ## Application
  12 separate developer-chosen images  will render to the screen. Each image listens listen for click events. User score increments by one with each correct guess, and resets with an incorrect guess.
